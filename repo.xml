@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-	<description>eXgit Module</description>
-	<author>Dmitriy Shabanov</author>
+	<description>eXrar Module</description>
+	<author>Evgeny Gazdovsky</author>
 	<website/>
 	<status>beta</status>
-	<license>GNU-LGPL</license>
+	<license>MIT</license>
 	<copyright>true</copyright>
 	<type>library</type>
 </meta>
