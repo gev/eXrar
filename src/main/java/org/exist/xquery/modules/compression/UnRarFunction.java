@@ -50,7 +50,6 @@ import java.io.IOException;
  *
  * @author Adam Retter <adam@exist-db.org>
  * @author Evgeny Gazdovsky <gazdovsky@gmail.com>
- * @version 1.0
  */
 public class UnRarFunction extends BasicFunction {
 

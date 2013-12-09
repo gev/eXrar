@@ -33,7 +33,7 @@ import java.util.Map;
  * 
  * @author Adam Retter <adam@exist-db.org>
  * @author ljo
- * @version 1.0
+ * @author Evgeny Gazdovsky <gazdovsky@gmail.com>
  */
 public class RarModule extends AbstractInternalModule {
 

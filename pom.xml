@@ -23,10 +23,6 @@
   
   <repositories>
     <repository>
-      <id>jgit-repository</id>
-      <url>http://download.eclipse.org/jgit/maven</url>
-    </repository>
-    <repository>
       <id>eXistDB</id>
       <url>https://raw.github.com/eXist-db/mvn-repo/master/</url>
     </repository>
