@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.exist-db</groupId>
   <artifactId>eXrar</artifactId>
-  <version>0.1.0</version>
+  <version>0.0.1</version>
   
   <dependencies>
     <!-- Core Library -->
@@ -27,4 +27,13 @@
       <url>https://raw.github.com/eXist-db/mvn-repo/master/</url>
     </repository>
   </repositories>
+
+    <distributionManagement>
+        <repository>
+            <id>mvn-repo</id>
+            <url>file:../../mvn-repo/</url>
+        </repository>
+    </distributionManagement>
+
+
 </project>
